@@ -1,0 +1,77 @@
+date,amount,category,description
+01-10-2024,500,Income,Freelance work
+02-10-2024,0,Income,
+03-10-2024,50,Expense,Groceries
+04-10-2024,0,Income,
+05-10-2024,30,Expense,Dining out
+06-10-2024,300,Income,Salary
+07-10-2024,20,Expense,Transport
+08-10-2024,0,Income,
+09-10-2024,100,Expense,Rent
+10-10-2024,200,Income,Online sales
+11-10-2024,0,Income,
+12-10-2024,10,Expense,Coffee
+13-10-2024,0,Income,
+14-10-2024,15,Expense,Utilities
+15-10-2024,0,Income,
+16-10-2024,250,Income,Consulting
+17-10-2024,40,Expense,Entertainment
+18-10-2024,0,Income,
+19-10-2024,25,Expense,Miscellaneous
+20-10-2024,150,Income,Part-time job
+21-10-2024,0,Income,
+22-10-2024,60,Expense,Shopping
+23-10-2024,0,Income,
+24-10-2024,75,Expense,Car maintenance
+25-10-2024,400,Income,Freelance project
+26-10-2024,0,Income,
+27-10-2024,5,Expense,Snacks
+28-10-2024,0,Income,
+29-10-2024,90,Expense,Medical bills
+30-10-2024,0,Income,
+31-10-2024,100,Income,Side hustle
+01-11-2024,80,Expense,Bills
+02-11-2024,0,Income,
+03-11-2024,45,Expense,Dining out
+04-11-2024,500,Income,Salary
+05-11-2024,0,Income,
+06-11-2024,10,Expense,Coffee
+07-11-2024,0,Income,
+08-11-2024,30,Expense,Transport
+09-11-2024,0,Income,
+10-11-2024,200,Expense,Rent
+11-11-2024,300,Income,Freelance work
+12-11-2024,0,Income,
+13-11-2024,60,Expense,Shopping
+14-11-2024,0,Income,
+15-11-2024,15,Expense,Utilities
+16-11-2024,0,Income,
+17-11-2024,200,Income,Online sales
+18-11-2024,50,Expense,Miscellaneous
+19-11-2024,0,Income,
+20-11-2024,90,Expense,Car maintenance
+21-11-2024,0,Income,
+22-11-2024,150,Income,Part-time job
+23-11-2024,40,Expense,Entertainment
+24-11-2024,0,Income,
+25-11-2024,100,Expense,Medical bills
+26-11-2024,0,Income,
+27-11-2024,25,Expense,Snacks
+28-11-2024,0,Income,
+29-11-2024,250,Income,Consulting
+30-11-2024,50,Expense,dance class
+30-11-2024,1222,Income,qwerty
+30-11-2024,500,Income,coffee sale
+06-12-2024,5000,Expense,new shoes
+06-12-2024,5000,Expense,shopping
+15-12-2024,3000,Income,parttime
+20-12-2024,12,Income,tt
+21-12-2024,12,Expense,coffee
+21-12-2024,1000,Expense,dance
+21-12-2024,1001,Expense,food
+28-12-2024,600,Income,internship
+06-01-2025,2000,Expense,tea
+11-01-2025,500,Expense,new phone
+11-01-2025,40000,Income,salary
+15-02-2025,500,Income,coffee
+15-02-2025,,Income,
